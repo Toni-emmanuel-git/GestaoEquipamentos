@@ -1,5 +1,6 @@
 ﻿using ApiGestaoEquipamentos.Entities;
 using Microsoft.AspNetCore.Mvc;
+using ApiGestaoEquipamentos.Dtos;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 
 namespace ApiGestaoEquipamentos.Controllers
